@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " B",
+    "C "
+  ],
+  "key": {
+    "B": "#minecraft:beds",
+    "C": "minecraft:clock"
+  },
+  "result": {
+    "id": "bedtp:bed_teleporter",
+    "count": 1
+  }
+}
